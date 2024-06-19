@@ -83,7 +83,7 @@ const styles = StyleSheet.create({
   headerContainer: {
     flexDirection: "row",
     width: "100%",
-    paddingHorizontal: 40,
+    paddingHorizontal: 39,
     paddingTop: 25,
   },
   backButton: {
